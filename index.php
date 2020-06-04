@@ -1,4 +1,4 @@
 <?php 
-echo "Hello World - Amrit Sharma - This is blue Green Deploymeny";
+echo "Blue Green Sample - Manish Rajpal - This is blue Green Deployment";
 
 ?>
